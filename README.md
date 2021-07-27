@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm [Deepak Jithu], working with IBM as z/OS (Mainframes) System Programmer and a passionate self-taught full stack web and App developer interested in Blockchain and AI from India.
+Hi, I'm [Deepak Jithu], working with IBM as z/OS (Mainframes) System Programmer and a passionate self-taught full stack web and App developer interested in Blockchain and AI from India.
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
