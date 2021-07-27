@@ -40,7 +40,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 Solidity    17 hrs 9 mins   ███████████████░░░░░░░░░░   59.42 % 
@@ -50,7 +50,7 @@ TRUFFLE     6 mins          ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/deepak.jithu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -63,7 +63,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Deepak-Jithu-12&show_icons=true&theme=gotham" alt="Deepak Jithu" />
 
